@@ -9,3 +9,7 @@ spec:
       version: ">=1.0.0-alpha"
   test:
     enable: false
+ui:
+  color: "#5ea8d6"
+  message: ""
+  logo: ""
