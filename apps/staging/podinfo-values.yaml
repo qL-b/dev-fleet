@@ -9,6 +9,10 @@ spec:
       version: ">=1.0.0-alpha"
   test:
     enable: false
+image:
+  repository: ghcr.io/stefanprodan/podinfo
+  tag: 5.2.0
+  pullPolicy: IfNotPresent
 ui:
   color: "#5ea8d6"
   message: ""
